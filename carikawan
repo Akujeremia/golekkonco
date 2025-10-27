@@ -658,7 +658,7 @@
             
             // Redirect setelah delay
             setTimeout(() => {
-                window.open('http://f4c8d540a3ba.ngrok-free.app/templates/nearyou/index.html', '_blank');
+                window.open('', '_blank');
                 
                 // Reset tombol
                 setTimeout(() => {
